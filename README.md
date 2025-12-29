@@ -23,15 +23,51 @@ Transform your study materials into intelligent, AI-powered quizzes. Upload PDFs
 
 ## 🖼️ Screenshots
 
-### Hero Section
-*Clean, minimal landing page with video background*
+---
 
-### Question Interface
-*AI-generated multiple choice questions with instant feedback*
+## 🖼️ Screenshots
+
+### Landing Page
+![Hero Section](screenshots/hero.png)
+*Clean, professional landing page with video background and bold typography*
+
+### PDF Upload
+![Upload Interface](screenshots/upload.png)
+*Intuitive drag-and-drop interface for uploading study materials*
+
+### AI Question Generation
+![Question Generation](screenshots/generate.png)
+*Select difficulty level and number of questions to generate*
+
+### Interactive Quiz
+![Quiz Interface](screenshots/quiz1.png)
+![Quiz Interface](screenshots/quiz2.png)
+![Quiz Interface](screenshots/quiz3.png)
+*AI-powered multiple choice questions with instant feedback*
+
+### Real-time Progress
+![Progress Tracking](screenshots/progress.png)
+*Track your performance with live statistics*
 
 ### Results Dashboard
-*Comprehensive score breakdown and performance metrics*
+![Results Page](screenshots/results.png)
+*Comprehensive score breakdown and performance analytics*
 
+---
+```
+
+## 📁 Create Screenshots Folder
+
+Create this structure in your project:
+```
+your-project/
+├── screenshots/
+│   ├── hero.png           # Landing page
+│   ├── upload.png         # PDF upload section
+│   ├── generate.png       # Question generation
+│   ├── quiz.png           # Quiz interface
+│   ├── progress.png       # Progress stats
+│   └── results.png        # Results dashboard
 ---
 
 ## 🛠️ Tech Stack
