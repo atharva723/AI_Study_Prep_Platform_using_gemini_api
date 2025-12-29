@@ -49,9 +49,6 @@ Transform your study materials into intelligent, AI-powered quizzes. Upload PDFs
 ![Progress Tracking](screenshots/progress.png)
 *Track your performance with live statistics*
 
-### Results Dashboard
-![Results Page](screenshots/results.png)
-*Comprehensive score breakdown and performance analytics*
 
 ---
 ```
