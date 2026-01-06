@@ -53,20 +53,6 @@ Transform your study materials into intelligent, AI-powered quizzes. Upload PDFs
 ---
 ```
 
-## 📁 Create Screenshots Folder
-
-Create this structure in your project:
-```
-your-project/
-├── screenshots/
-│   ├── hero.png           # Landing page
-│   ├── upload.png         # PDF upload section
-│   ├── generate.png       # Question generation
-│   ├── quiz.png           # Quiz interface
-│   ├── progress.png       # Progress stats
-│   └── results.png        # Results dashboard
----
-
 ## 🛠️ Tech Stack
 
 ### Backend
